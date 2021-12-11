@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tea",
+    "price": 1,
+    "components":  ["water", "teabag"]
+  },
+  {
+    "name": "Black Coffee",
+    "price": 1.2,
+    "components": [ "water", "coffee" ]
+  },
+  {
+    "name": "Latte",
+    "price": 1.2,
+    "components": [ "water", "coffee", "milk" ]
+  },
+  {
+    "name": "Cacao",
+    "price": 2,
+    "components": [ "water", "cacao" ]
+  },
+  {
+    "name": "Broth",
+    "price": 0.2,
+    "components":  ["water", "broth"]
+  }
+]
